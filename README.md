@@ -1,3 +1,5 @@
+Note that this project implements A bulk token distributor for Relex Life Token (0xd0a024e4b057024f941051dc19220a3bab4b5d45) rather than Relex Token (0x4a42d2c580f83dce404acad18dab26db11a1750e).
+
 # RelexDistributor
 This application distributes Relex Token to other wallets from a user's owned wallet.
 It asks user to provide full path of a distribution spreadsheet in CSV format that has 2 columns of data seperated by comma.
