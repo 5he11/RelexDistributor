@@ -6,3 +6,4 @@
 /RelexDistributor/bin
 /RelexDistributor/obj
 *.user
+/CryptoDistributor/Properties/PublishProfiles
